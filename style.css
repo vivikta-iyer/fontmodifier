@@ -1,0 +1,24 @@
+.note{
+    font-style: oblique;
+font-size: 15px;
+}
+.heading{
+box-shadow: 10px,5px,lightgrey;
+font-style: italic;
+}
+.copy_right_footer{
+    position: absolutes;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(118, 233, 175);
+    color: #34339b;
+line-height: 3px;
+width: 100%;
+}
+canvas{
+box-shadow: 10px,5px,lightgrey;
+border-radius: 20px;
+border: 5px solid rgb(127, 189, 228);
+}
+body{
+    background-color:lightsalmon ;
+}
